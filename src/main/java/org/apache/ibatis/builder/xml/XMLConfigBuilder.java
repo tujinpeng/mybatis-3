@@ -48,6 +48,7 @@ import org.apache.ibatis.type.JdbcType;
 import org.apache.ibatis.type.TypeHandler;
 
 /**
+ * XML配置构造器(解析mybatis-config.xml)   建造者模式 建造全局的配置对象Configuration
  * @author Clinton Begin
  * @author Kazuki Shimizu
  */

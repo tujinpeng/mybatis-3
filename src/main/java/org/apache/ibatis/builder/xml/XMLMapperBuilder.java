@@ -48,6 +48,7 @@ import org.apache.ibatis.type.JdbcType;
 import org.apache.ibatis.type.TypeHandler;
 
 /**
+ * Mapper XML映射构建器 建造者模式 构建全局配置Configuration
  * @author Clinton Begin
  */
 public class XMLMapperBuilder extends BaseBuilder {
